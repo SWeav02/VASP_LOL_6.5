@@ -3,7 +3,7 @@ This repository contains a patch for VASP v6.5.0 that:
 1. Enabling calculation of the Localized Orbital Locator (LOL)
 2. Enabling calculation of the Electron Localizability Indicators (ELI) parallel-spin electron pair density (D)
 
-It is essentially a copy of the patch from @Chengcheng-Xiao for VASP v6.3.0 which can be found [here](https://github.com/Chengcheng-Xiao/VASP_LOL). All credit goes to him.
+It is essentially a copy of the patch from @Chengcheng-Xiao for VASP v6.3.0 but updated for v6.5.0. The original can be found [here](https://github.com/Chengcheng-Xiao/VASP_LOL) and all credit should be pointed his way.
 
 
 ## Applying patch
