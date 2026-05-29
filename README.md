@@ -7,7 +7,7 @@ It is essentially a copy of the patch from @Chengcheng-Xiao for VASP v6.3.0 but 
 
 
 ## Applying patch
-1. Copy `VASP6.5_ELI_D.patch` into your VASP source folder and run the following:
+1. Copy `VASP6.5_ELI_D.patch` into the directory above your VASP source folder and run the following:
 ```
 patch -p0 < VASP6.5_ELI_D.patch
 ```
